@@ -59,9 +59,10 @@ python loan_risk_prediction.py
 
 Files in the Repository
 README.md: This file, providing an overview of the project.
+Credit_Risk Folder containing the following:
 Resources/lending_data.csv: The dataset used for the analysis.
 loan_risk_prediction.ipynb: Jupyter notebook containing the full analysis.
-loan_risk_prediction.py: Python script with the same analysis steps as the notebook.
+Summary report.
 requirements.txt: List of required Python packages.
 Dependencies
 Python 3.x
