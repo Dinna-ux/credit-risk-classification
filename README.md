@@ -69,7 +69,9 @@ Pandas
 Numpy
 Scikit-learn
 Pathlib
+
 You can install the required packages using:
+pip install -r requirements.txt
 
 Contact
 For any questions or comments, please reach out to [Dinna] at [witnessdinna@gmail.com].
