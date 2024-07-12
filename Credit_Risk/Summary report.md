@@ -56,13 +56,13 @@ Model Prediction: Make predictions on the testing data.
 Model Evaluation: Evaluate the model's performance using a confusion matrix and classification report.
 I used the LogisticRegression algorithm from the sklearn library to build our model.
 
-Results
+## Results
 Logistic Regression Model:
 Accuracy: 0.99 (99%)
 Precision: 0.99 (99%)
 Recall: 0.99 (99%)
 
-Summary
+## Summary
 The logistic regression model performed exceptionally well, achieving an accuracy, precision, and recall score of 0.99 (99%) across all metrics. This indicates that the model is highly effective at predicting both healthy loans (0) and high-risk loans (1).
 
 Given the balanced performance across accuracy, precision, and recall, the logistic regression model seems to perform the best. This high level of performance is crucial because it ensures that we correctly identify both healthy and high-risk loans, minimizing potential financial risks.
