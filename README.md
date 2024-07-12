@@ -43,21 +43,21 @@ Model Evaluation: Evaluate the model's performance using a confusion matrix and 
 Methods Used
 The primary method used in this analysis is logistic regression, implemented using the LogisticRegression class from the sklearn library.
 
-Results
+# Results
 The logistic regression model's performance is summarized as follows:
 
 Accuracy: 0.99 (99%)
 Precision: 0.99 (99%)
 Recall: 0.99 (99%)
 
-How to Run the Project
+## How to Run the Project
 git clone <repository-url>
 cd <project-directory>
 pip install -r requirements.txt
 jupyter notebook loan_risk_prediction.ipynb
 python loan_risk_prediction.py
 
-Files in the Repository
+# Files in the Repository
 README.md: This file, providing an overview of the project.
 Credit_Risk Folder containing the following:
 Resources/lending_data.csv: The dataset used for the analysis.
@@ -71,8 +71,8 @@ Numpy
 Scikit-learn
 Pathlib
 
-You can install the required packages using:
+# You can install the required packages using:
 pip install -r requirements.txt
 
-Contact
+## Contact
 For any questions or comments, please reach out to [Dinna] at [witnessdinna@gmail.com].
